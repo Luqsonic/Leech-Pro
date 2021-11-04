@@ -14,7 +14,7 @@
       "value": "ANYTHING"
     },
     "APP_ID": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "Get this value from tg",
       "value": ""
     },
     "API_HASH": {
